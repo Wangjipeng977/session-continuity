@@ -1,3 +1,5 @@
+[English](./README.md)
+
 # Session Continuity for OpenClaw
 
 跨会话记忆接续器——保存进度，随时从断点继续。
