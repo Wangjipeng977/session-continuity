@@ -1,6 +1,6 @@
-[中文版](./README_zh.md)
+# Session Continuity
 
-# Session Continuity for OpenClaw
+[中文版](./README_zh.md) for OpenClaw
 
 Save your place. Resume exactly where you left off — even days later.
 
